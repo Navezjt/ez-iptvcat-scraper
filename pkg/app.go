@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/PuerkitoBio/goquery" 
+	"github.com/PuerkitoBio/goquery"
 	"github.com/gocolly/colly"
 )
 
